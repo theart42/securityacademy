@@ -22,3 +22,5 @@ https://github.com/NorthBit/Metaphor
 http://www.darkreading.com/vulnerabilities---threats/mobile-security-why-app-stores-dont-keep-users-safe/a/d-id/1324829
 https://www.reddit.com/r/jailbreak/comments/40yico/tutorial_locked_out_of_your_phone_due_to/
 https://github.com/RUB-NDS/TLS-Attacker
+
+snoop-it is served by the following Cydia repository: http://repo.nesolabs.de
